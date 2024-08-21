@@ -1,16 +1,14 @@
-## Hi there 👋
+## olá!!eu sou caio 😸
+sou estudante da escola josé marcelino
 
-<!--
-**caioooooox/caioooooox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+estou no gihub principalmente para as siguintes ações:
 
-Here are some ideas to get you started:
+ -estudar as aulas da plataforma alura 📖
+ 
+ -programar scratch e javaScript 💻
+ 
+ -meu desenvolvimento pessoal em programação 📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ @ws.caio07 📷
+
+ 
